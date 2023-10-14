@@ -13,7 +13,7 @@
  -The code of logic (made in python) that has all the functions (buttons, camera, checkbox) working.
 
  # Libraries
-  To use make work the codes, the libraries needed are:
+  To make work the codes, the libraries needed are:
   
   -PyQt5
   
