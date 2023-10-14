@@ -12,6 +12,8 @@
  
  -The code of logic (made in python) that has all the functions (buttons, camera, checkbox) working.
 
+ -The images (in folder "iloveimg-resized") that are needed to run the program
+
  # Libraries
   To make work the codes, the libraries needed are:
   
