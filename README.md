@@ -11,6 +11,7 @@
 
  # Libraries
   To use make work the codes, the libraries needed are:
+  
   -PyQt5
   -OpenCV
   -Qt
